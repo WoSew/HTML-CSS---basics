@@ -1,0 +1,32 @@
+body
+{
+    background: gray;
+    font-family: Verdana;
+    font-size: 20px;
+    color: white
+}
+
+h1
+{
+    font-size: 40px;
+    color: rgb(58, 53, 53);
+}
+
+h3
+{
+    font-size: 35px !important;
+}
+
+a:link /*unvidited link*/
+{
+    color: yellow;
+}
+a:visited
+{
+    color: yellow;
+}
+
+a:hover /*link after hovering the cursor*/
+{
+    color: rgb(221, 142, 14);
+}
