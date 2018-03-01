@@ -156,3 +156,11 @@ body
 {
     background-color: #5c5f5f
 }
+a.tilelink
+{
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    height: 140px;
+}
